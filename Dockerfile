@@ -9,8 +9,9 @@
  # EXPOSE 3000
 
  # Default command to run the server
- CMD ["context7-mcp"]```
- 3. Save the `Dockerfile`{: .filepath}
- 4. Build the Docker image by running the following command in the terminal:
-   ```bash
-   docker build -t context7-mcp .
+ CMD ["context7-mcp"]
+ #```
+ #3. Save the `Dockerfile`{: .filepath}
+ #4. Build the Docker image by running the following command in the terminal:
+ #  ```bash
+   
